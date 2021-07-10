@@ -8,7 +8,7 @@
 <br>
 
 <h3><b>Демонстрация работы эксперимента:</b></h3>
-[Ссылка на YouTube видео](http://www.youtube.com/watch?v=0sLv6yc_6xk)
+http://www.youtube.com/watch?v=0sLv6yc_6xk
 
 <br>
 
